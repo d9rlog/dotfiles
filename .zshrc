@@ -5,7 +5,7 @@
 
 # Initial Setup
 # touch "$HOME/.cache/zshhistory
-# Setup Alias in $HOME/zsh/aliasrc
+# Setup Alias in $HOME/.config/shell/aliasrc
 
 # Enable colors and change prompt:
 autoload -U colors && colors
